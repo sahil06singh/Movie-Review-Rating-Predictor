@@ -8,8 +8,6 @@ In other words, the problem can be thought of as an advanced sentiment analysis 
 
 See movieRatingPredictor.pdf for implementation details.
 
-# Data Visualization #
-![dataWordCloud](https://github.com/abuhisham25/Movie-Review-Rating-Predictor/blob/master/Data/dataVisualization.png)
 
-# Contact #
-For more details about me, please see [my LinkedIn page](https://www.linkedin.com/in/abuhisham/)
+
+
